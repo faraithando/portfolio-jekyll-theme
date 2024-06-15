@@ -3,8 +3,5 @@ layout: page
 title: About
 permalink: /about
 ---
-# farai's portfolio
-# Portfolio Jekyll Theme
 
-Isn't it great
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+My name is Farai Mhlabi, residing in Rugby. I hold an International Diploma in Investment and Portfolio Management and numerous certifications, including PRINCE2, Agile. With 9 years of experience as an Accounts Receivable Associate, I excel in managing client accounts, processing invoices, and ensuring prompt payment collection. My passion in dealing with projects has driven me to successfully complete both waterfall and agile projects. I thrive in dynamic, fast-paced environments, bringing strong analytical, problem-solving, and communication skills. Outside of work, I enjoy learning about new methodologies and improving my skills.
